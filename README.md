@@ -1,3 +1,9 @@
+# Config for yabai and skhd
+
+![ss](images/ss.gif)
+
+
+
 # bsp, stack or float
 yabai -m config layout bsp
 
